@@ -472,17 +472,17 @@ Example response:
 - [x] LLM mocking
 - [x] Failure-path testing
 
-## Phase 2 — RAG Architecture
+## Phase 2 — RAG Architecture ✅
 
-- [ ] Document ingestion
-- [ ] PDF processing
-- [ ] Chunking strategy
-- [ ] Local embeddings
-- [ ] ChromaDB
-- [ ] Semantic retrieval
-- [ ] Top-K retrieval
-- [ ] Grounded generation
-- [ ] Source citations
+- [x] Document ingestion
+- [x] PDF processing
+- [x] Chunking strategy
+- [x] Local embeddings
+- [x] ChromaDB
+- [x] Semantic retrieval
+- [x] Top-K retrieval
+- [x] Grounded generation
+- [x] Source citations
 
 ## Phase 3 — RAG Evaluation
 
