@@ -1,0 +1,28 @@
+@'
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local vector database
+backend/data/chroma/
+
+# Local caches
+.cache/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+'@ | Set-Content -Encoding utf8 .gitignore
